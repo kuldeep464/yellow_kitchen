@@ -1,5 +1,5 @@
 # yellow_kitchen - Responsive Website Clone (figma to html)
-Live URL=> https://kuldeep464.github.io/yellow_kitchen/
+Live URL=> https://yellow-kitchen-khaki.vercel.app/
 
 This is a fully responsive **Yellow Kitchen** website clone built from a Figma design using **HTML5** and **CSS3**. The project replicates the design aesthetics and user experience of the original concept while ensuring mobile, tablet, and desktop compatibility.
 
